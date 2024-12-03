@@ -1,0 +1,8 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(è»ø8ñ“¡Œÿ1J$80304042-ce6c-4bd0-99f7-ef93ccba235c
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´´Â®8„’Šÿ1J$a7d3e88a-6418-4dfc-bc83-efd16130d821
+”
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(µøï¨şÿÿÿÿ8’Šÿ1J$e5e11014-e11c-45b6-b07a-b654d3c26c91
+l	java:S106"+Replace this use of System.out by a logger.(ƒÚáB8–’Šÿ1J$011d3e1e-e8e7-4f95-95d4-c0b10b431388
+‚
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8õ‹Ë¢…2J$b8b43377-1b01-4dff-9b8e-016f73e2d730

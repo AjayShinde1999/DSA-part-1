@@ -1,0 +1,38 @@
+package algoprep_video_12;
+
+import java.util.Scanner;
+
+public class PrintMatrixInWaveForm {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the size of row");
+        int n = sc.nextInt();
+        System.out.println("Enter the column size");
+        int m = sc.nextInt();
+        int[][] arr = new int[n][m];
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                System.out.println("Enter the elements");
+                arr[i][j] = sc.nextInt();
+            }
+        }
+        printWaveForm(arr, n, m);
+    }
+
+    public static void printWaveForm(int[][] arr, int n, int m) {
+
+        for (int i = 0; i < n; i++) {
+            if (i % 2 == 0) {
+                for (int j = 0; j < m; j++) {
+                    System.out.print(arr[i][j] + " ");
+                }
+            } else {
+                for (int j = m - 1; j >= 0; j--) {
+                    System.out.print(arr[i][j] + " ");
+                }
+            }
+            System.out.println();
+        }
+    }
+}

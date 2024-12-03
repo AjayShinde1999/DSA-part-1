@@ -1,0 +1,14 @@
+
+„
+java:S4973"<Strings and Boxed types should be compared using "equals()".(—ïšåşÿÿÿÿ8óôŞÁü1J$5119015b-8bf2-486e-8f65-7e1c259bd331
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷™½‡üÿÿÿÿ8õôŞÁü1J$79300f44-1b21-466c-8ffe-fa5555ca5ebd
+i
+java:S1125"'Remove the unnecessary boolean literal.(œ¥Ü,8±õŞÁü1J$d8f503c8-cb54-427a-ac80-07834edbd577
+r	java:S106"+Replace this use of System.out by a logger.(İõ‘Òûÿÿÿÿ8³õŞÁü1J$0164ef20-7832-4c3e-9a41-729394a21d84
+r	java:S106"+Replace this use of System.out by a logger.(¥Öö²şÿÿÿÿ8´õŞÁü1J$db0968d5-dc19-4606-bc53-ca63c974695e
+j
+java:S1125"'Remove the unnecessary boolean literal.(ğ¢±ø8·õŞÁü1J$81eac10f-a6f6-44de-99dc-9c65b20a1aad
+r	java:S106"+Replace this use of System.out by a logger.(İõ‘Òûÿÿÿÿ8¸õŞÁü1J$51711984-b1db-4e6f-a685-5d5c49e3893f
+o
+java:S1125""'Remove the unnecessary boolean literal.(–Èúÿÿÿÿ8Õ…àÁü1J$672aeec9-6dcf-4cc8-8299-05fe66d7448a
+r	java:S106#"+Replace this use of System.out by a logger.(¥Öö²şÿÿÿÿ8·àÁü1J$18607b62-62a6-4aaa-8043-2d9b10df9754

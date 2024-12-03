@@ -1,0 +1,13 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŽŒáJ$0ecc5dff-149b-49b1-849e-96b712ca0481
+“
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(çäý8Åê´¯°2J$d96172eb-1196-42f4-aa64-dfc03940d53b
+m	java:S106"+Replace this use of System.out by a logger.(¶çžæ8äê´¯°2J$f3a155b0-c46e-48b1-8790-c1154c9c5408
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(ˆÓë¤8ùê´¯°2J$65305cca-62a6-421b-92fc-2bb2d777e64d
+†
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(ê–˜Óüÿÿÿÿ8 ë´¯°2J$ad196f7f-e484-432a-bcf3-82792a31a1a6
+‰
+java:S11260"AReplace this if-then-else statement by a single return statement.(ê–˜Óüÿÿÿÿ8ç©¹¯°2J$82e76a78-0faf-45c0-8059-c0e5884627d9
+†
+java:S11550">Use isEmpty() to check whether the collection is empty or not.(ê–˜Óüÿÿÿÿ8é©¹¯°2J$1822884e-6434-41a9-b851-14c29240251c

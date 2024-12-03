@@ -1,0 +1,9 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ıº°‚2J$37c98bdf-7f7d-4466-b22a-4bd939f55fdb
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óô¼@8€‘º°‚2J$0b839c1f-df09-45af-a7d6-5bed1a8a6212
+}
+java:S1161":Add the "@Override" annotation above this method signature(“–ış8Š‘º°‚2J$f260c6f2-cf35-427e-ae00-0de09068eebd
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8‹‘º°‚2J$003223b6-20ab-4340-b4cf-8d3b13e797e0
+r	java:S106"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ8ÔÅ»°‚2J$a9888ad8-60f3-448e-a83c-eac9fa11e092
+m	java:S106"+Replace this use of System.out by a logger.(ÛÀÄû8ÕÅ»°‚2J$9e9b5f67-b302-41d4-bd68-6b3c457d1f5a

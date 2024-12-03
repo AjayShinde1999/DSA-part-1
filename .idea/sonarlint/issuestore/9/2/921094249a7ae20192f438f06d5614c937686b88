@@ -1,0 +1,13 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´´Â®J$befe6625-c32e-4e68-99c4-52e6f4e634f3
+m
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ú¼Ãê8¡„µµ€2
+r
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ÙïµÃûÿÿÿÿ8¡„µµ€2
+r
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¤•Ÿ†þÿÿÿÿ8¡„µµ€2
+r	java:S106"+Replace this use of System.out by a logger.(¾ùôŒùÿÿÿÿ8ó‹²µ€2J$6ba5156b-169f-4d81-9007-33754fcda4f2
+Š
+java:S1612"BReplace this lambda with method reference 'Comparable::compareTo'.(¤•Ÿ†þÿÿÿÿ8ö‹²µ€2J$b5b62488-96f1-42ae-bc27-1c4b0514b4ae
+m	java:S106"+Replace this use of System.out by a logger.(¦ðøº8ø‹²µ€2J$6f19cc43-b8f0-49c2-9d21-0b8f65a0a431
+r	java:S106"+Replace this use of System.out by a logger.(­ÿÝ’úÿÿÿÿ8ù‹²µ€2J$f93188b0-68b5-4129-a929-c586959f903e

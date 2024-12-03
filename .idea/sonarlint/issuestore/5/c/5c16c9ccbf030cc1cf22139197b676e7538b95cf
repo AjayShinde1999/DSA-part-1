@@ -1,0 +1,11 @@
+
+d
+java:S1643"Use a StringBuilder instead.(¹›³ùÿÿÿÿ8¼·ì„Š2J$3f3e25b2-26f7-4502-9960-49ff42b4883b
+d
+java:S1643"Use a StringBuilder instead.(‚£—Ñúÿÿÿÿ8†Éí„Š2J$95d1e671-e509-4fe5-b647-8982ccc1198b
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ö¯—Ëúÿÿÿÿ8ò«î„Š2J$47d06173-bace-4475-9bbe-92879e7101ed
+r	java:S106
+"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8÷‹Ø„Š2J$f0ed0574-f1b7-49bd-bdb6-1e399be2b05c
+m	java:S106"+Replace this use of System.out by a logger.(¯ô¢ô8ÿ‹Ø„Š2J$117ae1d8-163f-4952-a050-5246ae8f1655
+v
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8…¬î„Š2J$a3ee2a2f-adab-40c8-b4a5-433629ea462c

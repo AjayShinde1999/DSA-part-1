@@ -1,0 +1,10 @@
+
+“
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÏĞÇü8¸êà‹²2J$d885b359-8ca7-453d-97a0-7157d64091e8
+“
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¹÷Ã€8¸êà‹²2J$14705339-c55f-4e5b-bc05-7b299b7bee31
+r	java:S106&"+Replace this use of System.out by a logger.(ÿ€ëíıÿÿÿÿ8¿êà‹²2J$76e17fa0-db09-4d16-9a6e-a93fe3070898
+l	java:S106'"+Replace this use of System.out by a logger.(ñıœD8Àêà‹²2J$58d77b95-5f4b-44f8-a580-dfb217f73974
+r	java:S106("+Replace this use of System.out by a logger.(ÙéÚ€ıÿÿÿÿ8Áêà‹²2J$bef60d30-f812-45ba-9bf8-af8d361a279d
+l	java:S106*"+Replace this use of System.out by a logger.(ñıœD8Âêà‹²2J$80b6dd45-0950-43a5-a40c-d007bdb68237
+l	java:S106,"+Replace this use of System.out by a logger.(ñıœD8Âêà‹²2J$2bbf4966-a14c-4f8a-8cb1-d9389c7a0d3d

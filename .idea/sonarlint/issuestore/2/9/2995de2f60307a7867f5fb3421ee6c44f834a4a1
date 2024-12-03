@@ -1,0 +1,22 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀÌ›¡ùÿÿÿÿ8²”êÔ±2J$a2018e0b-de0f-4a3a-9102-8e5e02201bc9
+w
+java:S1611"/Remove the parentheses around the "s" parameter(Û¥Œıÿÿÿÿ8º”êÔ±2J$4257a09c-cdf3-483b-a772-a7b92003f2a3
+›
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(Û¥Œıÿÿÿÿ8»”êÔ±2J$f49ccb24-3663-41d6-9e61-8ae87c03249f
+ˆ
+java:S1612"@Replace this lambda with method reference 'String::toLowerCase'.(Û¥Œıÿÿÿÿ8¾”êÔ±2J$dc9bc89e-2a3f-455e-ae8d-1f11396f360d
+r
+java:S1611"/Remove the parentheses around the "s" parameter(—¦ôù8¿”êÔ±2J$87b8cdfa-423a-4004-9cc4-045cc2a4993e
+r
+java:S1611"/Remove the parentheses around the "s" parameter(ÿÎ÷î8Á”êÔ±2J$9ad54b3b-b5e9-4db7-b449-1cf21592acf3
+–
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ÿÎ÷î8Á”êÔ±2J$18c4f9ca-1238-4f7c-9370-27100a15e3ba
+ƒ
+java:S1612"@Replace this lambda with method reference 'String::toUpperCase'.(ÿÎ÷î8Â”êÔ±2J$16a2a2f9-aef1-4f3b-be1f-d0f526a7abd1
+w
+java:S1611"/Remove the parentheses around the "s" parameter(š÷şÿÿÿÿ8Â”êÔ±2J$5ab360c8-9447-47eb-a1a9-9f372cabfa7d
+r	java:S106"+Replace this use of System.out by a logger.(ğ´§»ÿÿÿÿÿ8Å”êÔ±2J$279e4b77-d387-4f78-85d7-626bc0e68156
+r	java:S106"+Replace this use of System.out by a logger.(Î«Úšúÿÿÿÿ8Å”êÔ±2J$b13d375a-4920-4dbd-b1f6-857c224cc6b7
+l	java:S106 "+Replace this use of System.out by a logger.(™¶²`8Æ”êÔ±2J$81aaabfc-f11a-4fb4-8f26-0a2fd0202936
+r	java:S106#"+Replace this use of System.out by a logger.(øªíóÿÿÿÿÿ8—íêÔ±2J$e1050b5a-52a6-4e51-8fcd-bb524e43c089

@@ -1,0 +1,11 @@
+
+_
+java:S1643"Use a StringBuilder instead.(ÕêŽå8ŠïŸ•ü1J$876d8712-301c-4857-8f58-ca64d21ae764
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í¾é¸üÿÿÿÿ8›Š™•ü1J$e3aec964-6ab3-4ff4-912f-8d821d654472
+¢
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(–‹‚í8†½¥•ü1J$479c8d9e-af21-47eb-ad9c-c788616d22ce
+¢
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ì†¾Ý8†½¥•ü1J$de05c62e-c044-4934-8ee5-f38b9339b8f6
+m	java:S106
+"+Replace this use of System.out by a logger.(Ææ Ï8ÜÉ •ü1J$1771f24b-2a0e-4676-ab8f-49a8ad07cc47
+r	java:S106"+Replace this use of System.out by a logger.(±‡âÈüÿÿÿÿ8Ñô¥•ü1J$420b1da7-9beb-4c42-aea2-1d8c8e39b430

@@ -1,0 +1,12 @@
+
+€
+java:S1854"=Remove this useless assignment to local variable "clonedObj".(ö—Å8ïÿ•’‡2J$820cae77-70b9-48ad-abaf-1c1a22db89a8
+q
+java:S1481".Remove this unused "clonedObj" local variable.(ö—Å8ñÿ•’‡2J$19bb2d73-d22d-4a64-9170-354275b42320
+m	java:S106"+Replace this use of System.out by a logger.(×Ôšç8óÿ•’‡2J$02d1885c-d8a5-4902-bd36-7ee49fe5f819
+r	java:S106
+"+Replace this use of System.out by a logger.(Êë¬áûÿÿÿÿ8„Ğ—’‡2J$3f75bb81-abd7-4ceb-b5e9-3f71fada917d
+•
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(™”” 8öÿ•’‡2J$52ee6810-96ee-487d-a235-ecdf0669af93
+j
+java:S1185"(Remove this method to simply inherit it.(™”” 8÷ÿ•’‡2J$990bcb56-dd31-4bd1-946f-84d24eee7966

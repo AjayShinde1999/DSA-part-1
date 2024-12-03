@@ -1,0 +1,12 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€ä ûøÿÿÿÿ8¹öîÇ…2J$64d4d1e4-1f50-41bf-8c3a-61b86ba01d41
+“
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(èÍõë8İÇïÇ…2J$5b8fe515-c651-4bdc-94ab-cbb2497baad6
+‡
+java:S1612"?Replace this lambda with method reference 'Collection::stream'.(Ô¨”Ğøÿÿÿÿ8ÅöîÇ…2J$3d978e11-77da-4e32-afd3-846d74a7b5bb
+…
+java:S1612"=Replace this lambda with method reference 'Number::intValue'.(Ô¨”Ğøÿÿÿÿ8ÆöîÇ…2J$941b3b97-5c10-45ab-a577-21c5b1348648
+m	java:S106"+Replace this use of System.out by a logger.(‚¨Ö§8ÈöîÇ…2J$b6410679-d1c2-4a91-83fe-e03edc1b58c3
+‚
+java:S1612"?Replace this lambda with method reference 'Collection::stream'.(èÍõë8çÇïÇ…2J$661f0e59-4959-4130-a5db-61e26ad2de02
+G	java:S106"+Replace this use of System.out by a logger.(«òˆì8ÊêïÇ…2

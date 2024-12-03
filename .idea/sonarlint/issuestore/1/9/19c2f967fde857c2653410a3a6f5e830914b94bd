@@ -1,0 +1,10 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷™½‡üÿÿÿÿ8µñ­Ÿü1J$61b367aa-87ff-4421-8d0b-1da174b44d64
+i
+java:S1125"'Remove the unnecessary boolean literal.(œ¥Ü,8¼ñ­Ÿü1J$76c4b736-7557-4f1c-abcf-9b8a3ae7f380
+r	java:S106"+Replace this use of System.out by a logger.(„¿Â²ûÿÿÿÿ8¾ñ­Ÿü1J$f2a5cf8e-b83f-4ab5-b21e-7b3836897783
+r	java:S106"+Replace this use of System.out by a logger.(¬àÙ÷üÿÿÿÿ8¿ñ­Ÿü1J$a1a5f578-1797-4ec6-9a6f-1c5fd685543f
+i
+java:S1125"'Remove the unnecessary boolean literal.(¼™ñ8ç÷´Ÿü1J$b4aafd0b-6dd4-4f2e-b094-b0bb9263b2ff
+r	java:S106"+Replace this use of System.out by a logger.(„¿Â²ûÿÿÿÿ8Ú½µŸü1J$eb239c76-f5ce-43a5-905d-4c1dd9f8a4ff
+r	java:S106!"+Replace this use of System.out by a logger.(¬àÙ÷üÿÿÿÿ8Ü½µŸü1J$076d44db-b9cf-445f-99c5-99e5ea1ff249

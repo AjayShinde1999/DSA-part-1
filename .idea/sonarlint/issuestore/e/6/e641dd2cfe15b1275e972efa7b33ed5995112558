@@ -1,0 +1,13 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€ä ûøÿÿÿÿJ$4b68db46-5ff5-4f2f-9cfd-edff9530875b
+‘
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(’ÕÆÛùÿÿÿÿJ$4d2f42c1-938b-4d62-b21b-c9fb332bec75
+‘
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(î•÷øÿÿÿÿJ$d1410338-c237-4135-a98c-021dcab4f525
+Œ
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(‹„ÏÏJ$3c4b64f9-548f-439e-8c59-3ab4006c9b6b
+ƒ
+java:S1612"BReplace this lambda with method reference 'Comparable::compareTo'.(’ÕÆÛùÿÿÿÿJ$21962290-c4e1-492e-a4ae-b6bf30cb3195
+k	java:S106"+Replace this use of System.out by a logger.(¾ùôŒùÿÿÿÿJ$e59f84bb-d46e-405b-9e3e-b270e8ceeda0
+k	java:S106"+Replace this use of System.out by a logger.(’€¡³üÿÿÿÿJ$3c546e7d-79cc-4387-b557-8f2e2dd92386
+f	java:S106"+Replace this use of System.out by a logger.(«òˆìJ$56164b74-8024-480b-83bb-eb209d71cfa7

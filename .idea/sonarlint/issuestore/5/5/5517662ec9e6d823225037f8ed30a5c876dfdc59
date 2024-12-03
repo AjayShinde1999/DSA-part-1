@@ -1,0 +1,8 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀÌ›¡ùÿÿÿÿ8Ý¤“Ö±2J$3df4f8fa-637c-4c51-ad95-9581a2457e78
+m	java:S106"+Replace this use of System.out by a logger.(Áõ¢Æ8ç¤“Ö±2J$432cd8c1-d1c3-4485-8d7f-4119b1240072
+r	java:S106"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ8è¤“Ö±2J$5ee80617-1b58-4c8a-81d6-86db689f823d
+]	java:S125"<This block of commented-out lines of code should be removed.(’Ë£ùÿÿÿÿ8Ç¤•Ö±2
+Š
+java:S1612"BReplace this lambda with method reference 'Comparable::compareTo'.(ŸÍ—Æüÿÿÿÿ8ê¤“Ö±2J$c16d1aa8-9ba3-4d4c-9306-509eaa813ce0
+r	java:S106"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ8ë¤“Ö±2J$a20f9a0f-1d14-4a8c-9aa3-23588d589eac

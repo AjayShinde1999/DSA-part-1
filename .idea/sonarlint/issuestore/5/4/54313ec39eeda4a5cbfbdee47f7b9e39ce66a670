@@ -1,0 +1,14 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€ä ûøÿÿÿÿ
+k
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ðÉ¡Îþÿÿÿÿ
+f
+java:S3655	"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(â¬¬Ã
+f
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(œƒ‰—
+X
+java:S1612	"BReplace this lambda with method reference 'Comparable::compareTo'.(â¬¬Ã
+@	java:S106
+"+Replace this use of System.out by a logger.(Å¶áç
+@	java:S106"+Replace this use of System.out by a logger.(ÉÁß­
+@	java:S106"+Replace this use of System.out by a logger.(«òˆì

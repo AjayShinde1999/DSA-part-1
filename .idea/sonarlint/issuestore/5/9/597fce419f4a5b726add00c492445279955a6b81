@@ -1,0 +1,10 @@
+
+m	java:S106"+Replace this use of System.out by a logger.(ÏªÝì8ñœí¡ƒ2J$6b976d0f-84b6-4119-b815-3d3486fa10bf
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ã•“µüÿÿÿÿ8Ê•«¢†2J$2fbbd7ac-fa2c-4444-972e-468a5f54b582
+}
+java:S1612":Replace this lambda with method reference 'Entry::getKey'.(ÄÙ™8øœí¡ƒ2J$28ac5fb8-b0bb-4ba7-89e5-04a480172e50
+„
+java:S1612"<Replace this lambda with method reference 'Entry::getValue'.(ë¦Œ¨ÿÿÿÿÿ8øœí¡ƒ2J$89db3cd6-4c00-48ed-b553-ea6e3137cafb
+m	java:S106""+Replace this use of System.out by a logger.(šË¯÷8èþç¡†2J$8ff68673-a7f2-40e1-9ee9-35f699e16c9a
+r
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ8Ï•«¢†2J$5645c538-8fe9-4dd8-a662-05bafe381129
